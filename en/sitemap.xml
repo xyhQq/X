@@ -2,100 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xyhqq.github.io/X/</loc>
+    <loc>http://localhost:1313/X/</loc>
     <lastmod>2025-08-06T16:50:44+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xyhqq.github.io/X/zh-cn/"
+                href="http://localhost:1313/X/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://xyhqq.github.io/X/ar/"
+                href="http://localhost:1313/X/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xyhqq.github.io/X/"
+                href="http://localhost:1313/X/"
                 />
   </url><url>
-    <loc>https://xyhqq.github.io/X/p/my-first-post/</loc>
+    <loc>http://localhost:1313/X/p/my-first-post/</loc>
     <lastmod>2025-08-06T16:50:44+08:00</lastmod>
   </url><url>
-    <loc>https://xyhqq.github.io/X/p/my-first-post/</loc>
+    <loc>http://localhost:1313/X/p/my-first-post/</loc>
     <lastmod>2025-08-06T16:50:44+08:00</lastmod>
   </url><url>
-    <loc>https://xyhqq.github.io/X/post/</loc>
+    <loc>http://localhost:1313/X/post/</loc>
     <lastmod>2025-08-06T16:50:44+08:00</lastmod>
   </url><url>
-    <loc>https://xyhqq.github.io/X/archives/</loc>
+    <loc>http://localhost:1313/X/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xyhqq.github.io/X/page/</loc>
+    <loc>http://localhost:1313/X/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xyhqq.github.io/X/zh-cn/page/"
+                href="http://localhost:1313/X/zh-cn/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xyhqq.github.io/X/page/"
+                href="http://localhost:1313/X/page/"
                 />
   </url><url>
-    <loc>https://xyhqq.github.io/X/about/</loc>
+    <loc>http://localhost:1313/X/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xyhqq.github.io/X/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="http://localhost:1313/X/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xyhqq.github.io/X/about/"
+                href="http://localhost:1313/X/about/"
                 />
   </url><url>
-    <loc>https://xyhqq.github.io/X/categories/</loc>
+    <loc>http://localhost:1313/X/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xyhqq.github.io/X/zh-cn/categories/"
+                href="http://localhost:1313/X/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://xyhqq.github.io/X/ar/categories/"
+                href="http://localhost:1313/X/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xyhqq.github.io/X/categories/"
+                href="http://localhost:1313/X/categories/"
                 />
   </url><url>
-    <loc>https://xyhqq.github.io/X/links/</loc>
+    <loc>http://localhost:1313/X/links/</loc>
   </url><url>
-    <loc>https://xyhqq.github.io/X/search/</loc>
+    <loc>http://localhost:1313/X/search/</loc>
   </url><url>
-    <loc>https://xyhqq.github.io/X/tags/</loc>
+    <loc>http://localhost:1313/X/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xyhqq.github.io/X/zh-cn/tags/"
+                href="http://localhost:1313/X/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://xyhqq.github.io/X/ar/tags/"
+                href="http://localhost:1313/X/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xyhqq.github.io/X/tags/"
+                href="http://localhost:1313/X/tags/"
                 />
   </url><url>
-    <loc>https://xyhqq.github.io/X/categories/test/</loc>
+    <loc>http://localhost:1313/X/categories/test/</loc>
   </url>
 </urlset>

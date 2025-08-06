@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Example Site</title>
-        <link>https://xyhqq.github.io/X/post/</link>
+        <link>http://localhost:1313/X/post/</link>
         <description>Recent content in Posts on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Wed, 06 Aug 2025 16:50:44 +0800</lastBuildDate><atom:link href="https://xyhqq.github.io/X/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 06 Aug 2025 16:50:44 +0800</lastBuildDate><atom:link href="http://localhost:1313/X/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>My First Post</title>
-        <link>https://xyhqq.github.io/X/p/my-first-post/</link>
+        <link>http://localhost:1313/X/p/my-first-post/</link>
         <pubDate>Wed, 06 Aug 2025 16:50:44 +0800</pubDate>
         
-        <guid>https://xyhqq.github.io/X/p/my-first-post/</guid>
+        <guid>http://localhost:1313/X/p/my-first-post/</guid>
         <description>&lt;p&gt;啊啊啊啊&lt;/p&gt;
 &lt;p&gt;亻尔女子！&lt;/p&gt;
 &lt;p&gt;mlgbd传个网站头都要薅秃了&lt;/p&gt;
@@ -20,10 +20,10 @@
         </item>
         <item>
         <title>My First Post</title>
-        <link>https://xyhqq.github.io/X/p/my-first-post/</link>
+        <link>http://localhost:1313/X/p/my-first-post/</link>
         <pubDate>Wed, 06 Aug 2025 16:50:44 +0800</pubDate>
         
-        <guid>https://xyhqq.github.io/X/p/my-first-post/</guid>
+        <guid>http://localhost:1313/X/p/my-first-post/</guid>
         <description>&lt;p&gt;亻尔女子！&lt;/p&gt;
 &lt;p&gt;mlgb做个网站头都要薅秃了&lt;/p&gt;
 </description>

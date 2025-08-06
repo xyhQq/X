@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xyhqq.github.io/X/ar/categories/</loc>
+    <loc>http://localhost:1313/X/ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xyhqq.github.io/X/categories/"
+                href="http://localhost:1313/X/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xyhqq.github.io/X/zh-cn/categories/"
+                href="http://localhost:1313/X/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://xyhqq.github.io/X/ar/categories/"
+                href="http://localhost:1313/X/ar/categories/"
                 />
   </url><url>
-    <loc>https://xyhqq.github.io/X/ar/tags/</loc>
+    <loc>http://localhost:1313/X/ar/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xyhqq.github.io/X/tags/"
+                href="http://localhost:1313/X/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xyhqq.github.io/X/zh-cn/tags/"
+                href="http://localhost:1313/X/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://xyhqq.github.io/X/ar/tags/"
+                href="http://localhost:1313/X/ar/tags/"
                 />
   </url><url>
-    <loc>https://xyhqq.github.io/X/ar/</loc>
+    <loc>http://localhost:1313/X/ar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xyhqq.github.io/X/"
+                href="http://localhost:1313/X/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://xyhqq.github.io/X/zh-cn/"
+                href="http://localhost:1313/X/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://xyhqq.github.io/X/ar/"
+                href="http://localhost:1313/X/ar/"
                 />
   </url>
 </urlset>
